@@ -29,7 +29,7 @@ JSP 프로젝트 [서울체크인]
 - 고객센터 : 자주 묻는 질문과 공지사항 내용 제공
 
 # ERD
-
+![서울체크인최종ERD](https://user-images.githubusercontent.com/114070466/209525660-a26e72a6-c9c3-4ff8-bed9-e97c8dd353f7.png)
 
 # 프로젝트에서 느낀점
 - 어려웠던 부분 
